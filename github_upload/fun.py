@@ -1,0 +1,1 @@
+print('Are we have fun yet')
